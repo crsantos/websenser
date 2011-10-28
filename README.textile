@@ -1,3 +1,2 @@
 h1. websenser - a mix of physical computing and web
 
-p.-
